@@ -1,0 +1,5 @@
+You will the dataset on kaggle
+
+LINK:-
+
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
